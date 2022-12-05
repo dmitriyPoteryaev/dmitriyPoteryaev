@@ -22,3 +22,5 @@
     
     
    ### :man_technologist: About Me :
+    
+    I am a React Front-end Developer.
