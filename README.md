@@ -10,5 +10,5 @@
   <a href="https://freelance.habr.com/freelancers/Dmitriy_Poteryaev42">
     <img src="https://img.shields.io/badge/Habrfreelance-green?style=for-the-badge&logo=habrfreelancein&logoColor=green" alt="Habrfreelance Badge"/>
 </div>
-   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=dmitriyPoteryaev&style=flat-square&color=blue" alt=""/>
 </div>
