@@ -5,8 +5,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
    <div id="badges">
-  <a href="https://freelance.habr.com/freelancers/Dmitriy_Poteryaev42">
+  <a href="https://hh.ru/applicant/resumes/view?resume=a44b71c1ff0b355fbb0039ed1f664a6d494650">
     <img src="https://img.shields.io/badge/Headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white"/>
 </div>
-
+  <div id="badges">
+  <a href="https://freelance.habr.com/freelancers/Dmitriy_Poteryaev42">
+    <img src="https://img.shields.io/badge/Habrfreelance-blue?style=for-the-badge&logo=habrfreelancein&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 </div>
