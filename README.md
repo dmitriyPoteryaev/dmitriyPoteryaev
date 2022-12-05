@@ -8,6 +8,6 @@
     <img src="https://img.shields.io/badge/Headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white"/>
 
   <a href="https://freelance.habr.com/freelancers/Dmitriy_Poteryaev42">
-    <img src="https://img.shields.io/badge/Habrfreelance-blue?style=for-the-badge&logo=habrfreelancein&logoColor=#40ffb9" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Habrfreelance-#40ffb9?style=for-the-badge&logo=habrfreelancein&logoColor=#40ffb9" alt="LinkedIn Badge"/>
 </div>
 </div>
