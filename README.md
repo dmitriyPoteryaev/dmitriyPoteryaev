@@ -21,7 +21,4 @@
 </div>
     
     
-     ---
-    
-    
-    ###:man_technologist: About Me :
+   ### :woman_technologist: About Me :
