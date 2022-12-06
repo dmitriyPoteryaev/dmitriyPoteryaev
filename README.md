@@ -16,11 +16,6 @@
          
 </div>
     
-
-       <a href="https://www.codewars.com/users/dmitriyPoteryaev">
-    <img src="https://img.shields.io/badge/-codewars-brown" alt="Codewars Badge"/>
-          </a>
-    
     
    <img src="https://komarev.com/ghpvc/?username=dmitriyPoteryaev&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -38,6 +33,6 @@
     I am a React Front-end Developer.
     
 - :telescope: I am a freelance front-end developer.
-- :zap: In my free time
+- :zap: In my free time, I solve problems on codewars  https://www.codewars.com/users/dmitriyPoteryaev
 
 
