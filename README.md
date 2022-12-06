@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/Habrfreelance-green?style=for-the-badge&logo=habrfreelancein&logoColor=green" alt="Habrfreelance Badge"/>
       </a>
       
-            <a href="https://www.codewars.com/users/dmitriyPoteryaev">
-    <img src="https://img.shields.io/badge/-codewars-brown" alt="Codewars Badge"/>
-          </a>
+         
 </div>
     
 
-    
+       <a href="https://www.codewars.com/users/dmitriyPoteryaev">
+    <img src="https://img.shields.io/badge/-codewars-brown" alt="Codewars Badge"/>
+          </a>
     
     
    <img src="https://komarev.com/ghpvc/?username=dmitriyPoteryaev&style=flat-square&color=blue" alt=""/>
