@@ -14,7 +14,7 @@
       </a>
       
             <a href="https://www.codewars.com/users/dmitriyPoteryaev">
-    <img src="https://img.shields.io/badge/Codewars-green?style=for-the-badge&logo=Codewars&logoColor=brown" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/-codewars-brown" alt="Codewars Badge"/>
           </a>
 </div>
     
