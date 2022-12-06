@@ -42,10 +42,11 @@
 ###  About My Projets :
 
 - React : https://dmitriypoteryaev.github.io/Online-Clothing-Store-React-/
-- React,Redux. Deploy on firebase : https://beer-project-64835.firebaseapp.com/
+- React,Redux,Webpack. Deploy on firebase : https://beer-project-64835.firebaseapp.com/
 - Layout on React. One of the freelance projects : https://dmitriypoteryaev.github.io/Neva_Trip/
 - React,Redux,Firebase. Work with DB firebase and storage firebase : https://dmitriypoteryaev.github.io/to_do_list/
 - React,Redux : https://dmitriypoteryaev.github.io/React-Redux-drag-and-drop/
+- Vanilla Js, Webpack :https://dmitriypoteryaev.github.io/Countdown-Timer-Validation/
 
 ---
 
