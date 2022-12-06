@@ -36,6 +36,10 @@
 - :telescope: I am a freelance front-end developer.
 - :zap: In my free time, I solve problems on codewars  https://www.codewars.com/users/dmitriyPoteryaev
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
