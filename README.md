@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Habrfreelance-green?style=for-the-badge&logo=habrfreelancein&logoColor=green" alt="Habrfreelance Badge"/>
 
     <a href="https://www.codewars.com/users/dmitriyPoteryaev">
-    <img src="https://img.shields.io/badge/Codewars-brown?style=for-the-badge&logo=сodewarsin&logoColor=brown" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/Habrfreelance-green?style=for-the-badge&logo=habrfreelancein&logoColor=green" alt="Codewars Badge"/>
       
 </div>
    <img src="https://komarev.com/ghpvc/?username=dmitriyPoteryaev&style=flat-square&color=blue" alt=""/>
