@@ -26,5 +26,6 @@
     I am a React Front-end Developer.
     
 - :telescope: I am a freelance front-end developer.
+- :zap: In my free time
 
 
