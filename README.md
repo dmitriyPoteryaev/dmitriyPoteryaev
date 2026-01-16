@@ -15,9 +15,7 @@
 
 ---
     
-   ### :man_technologist: About Me :
-    
-    I am a React Front-end Developer.
+   ### :man_technologist:
     
 - :telescope: I am a freelance front-end developer.
 - :zap: In my free time, I solve problems on codewars  https://www.codewars.com/users/dmitriyPoteryaev
@@ -42,16 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="React" alt="webpack" width="60" height="60"/>&nbsp;
     </div>
     
-    
-   ---
-
-### :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmitriyPoteryaev&theme=radical)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriyPoteryaev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
