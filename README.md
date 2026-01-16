@@ -14,13 +14,6 @@
 
 
 ---
-    
-   ### :man_technologist:
-    
-- :telescope: I am a freelance front-end developer.
-- :zap: In my free time, I solve problems on codewars  https://www.codewars.com/users/dmitriyPoteryaev
-
----
 
 ---
 
